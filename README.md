@@ -1,2 +1,3 @@
-# tmux-files
-Personal tmux configuration
+# TMUX Files
+
+Personal TMUX configuration
